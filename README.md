@@ -1,4 +1,4 @@
 bellows-riddles-art
 ===================
 
-Collaboration with artists.
+A place to collaborate with the artists.
