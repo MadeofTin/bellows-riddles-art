@@ -3,9 +3,9 @@
 
 ## The story
 
-The story is a man named Bellow is the only human in the land. He has access to magic that allows him to build machines powered by his magic to do amazing things. Whombies live in his worlds and he helped them by building machines and helping them build a society using his magic. While Bellow is not their ruler by definition because all of their technology is powered by his magic they depend on him. He is curious and a narsassitc person (based off of Howls from Howls Moving Castle), so he helps them but has no desire to be their leader. He just does what he feels like. One day Bellow get's tired of all of these Whombie's coming to ask him for help to do things, so he stops using his magic to power their devices. Which in turn brings their society to collapse and ruin almost killing it. He is in a dark and brooding modd and doesn't really care for the whombies themselves so sits back as the society he helps build breaks down.
+The story is a man named Bellow is the only human in the land. He has access to magic that allows him to build machines powered by his magic to do amazing things. Wombies live in his worlds and he helped them by building machines and helping them build a society using his magic. While Bellow is not their ruler by definition because all of their technology is powered by his magic they depend on him. He is curious and a narsassitc person (based off of Howls from Howls Moving Castle), so he helps them but has no desire to be their leader. He just does what he feels like. One day Bellow get's tired of all of these Wombie's coming to ask him for help to do things, so he stops using his magic to power their devices. Which in turn brings their society to collapse and ruin almost killing it. He is in a dark and brooding modd and doesn't really care for the wombies themselves so sits back as the society he helps build breaks down.
 
-You enter the scene. (You don't actualy have a name or are represented in any way in the game. But Bellow address you directly.) You observe the seen of the miserable Whombies and try to convince him to bring his magic back to power their machines. Eventually he agrees to but only, but only if you play his game. You have to Answer his Riddles. For every riddle you answer he will bring a part of the world back to life. Your goal is to try and get him to start caring for the whombies being the benevolent ruler. We will see how it develops.
+You enter the scene. (You don't actualy have a name or are represented in any way in the game. But Bellow address you directly.) You observe the seen of the miserable Wombies and try to convince him to bring his magic back to power their machines. Eventually he agrees to but only, but only if you play his game. You have to Answer his Riddles. For every riddle you answer he will bring a part of the world back to life. Your goal is to try and get him to start caring for the wombies being the benevolent ruler. We will see how it develops.
 
 
 ### World
@@ -39,11 +39,10 @@ Wombies have no decernable language to you, but Bellow can talk to them. They ar
 When you see them you should see smile. Not cute, not serious, not really comedy, but you should want to bring their world back to life. They are smart, but not that smart. You should feel like you are helping them and that should bring you some measure of satisfaction.
 
 ###### Definition
-They have at least two eyes. Are a solid color, but their shape can move. They also must have the Hexagon somewhere that is present in the Tinman Logo. I am not sure if they should have mouths...
 
 |  Tinmen Logo   |   Lots of Wombies   |  Wombie with a mouth. |
 | ------------- | ------------- | ----- |
-| ![Tinmen Logo](/assets/branding/Tinmen-14-10-03.png ) | ![wombies](/assets/inspirations/wombies.png) | ![Other Wombie](/assets/branding/other-wombie.png ) |
+| ![Tinmen Logo](/assets/branding/Tinmen-14-10-03.png ) | ![wombies](/assets/branding/wombies.png) | ![Mouth Wombie](/assets/branding/other-wombie.png ) |
 
 
 
